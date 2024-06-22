@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryError", "ClassLibraryError\ClassLibraryError.csproj", "{93FF02A6-7B7E-4C6E-8FA3-B50F19BDBD18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{16B37777-2F97-49FB-AAE5-84D042816265}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Packages.props = Directory.Packages.props
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FF02A6-7B7E-4C6E-8FA3-B50F19BDBD18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FF02A6-7B7E-4C6E-8FA3-B50F19BDBD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FF02A6-7B7E-4C6E-8FA3-B50F19BDBD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FF02A6-7B7E-4C6E-8FA3-B50F19BDBD18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ABFE9E6-1810-4823-A86A-ADA1C7021D71}
+	EndGlobalSection
+EndGlobal

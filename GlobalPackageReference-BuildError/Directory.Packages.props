@@ -1,0 +1,9 @@
+<Project>
+	<PropertyGroup>
+		<ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<GlobalPackageReference Include="Microsoft.Build" Version="17.10.4" />
+	</ItemGroup>
+</Project>
